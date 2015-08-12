@@ -1,4 +1,3 @@
 # hello-world
 braaf de tutorial volgen ...
-
-en nog wat extra tekst 
+eens kijken of het allemaal een beetje werkt zoals voorspeld.
